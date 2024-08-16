@@ -1,5 +1,4 @@
-# This program demonstrates various date, time, and calendar functions
-# builot into Python
+# This program demonstrates various date, time, and calendar functions built into Python
 # Reference:  https://www.w3schools.com/python/python_datetime.asp
 
 #------------------------------------------------------#
@@ -22,9 +21,9 @@ print()
 
 print(datetime.now().strftime("%a"))  # Day of week
 
-print(datetime.now().strftime("%x"))  # Full date
+print(datetime.now().strftime("%x"))  # Full date:  mm/dd/yy
 
-print(datetime.now().strftime("%X"))  # Full time
+print(datetime.now().strftime("%X"))  # Full time:  hh:mm:ss
 
 print()
 
@@ -37,4 +36,3 @@ print(calendar.month(2024, 12))
 print()
 
 #------------------------------------------------------#
-
