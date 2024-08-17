@@ -18,7 +18,7 @@ number = 2      # Number to test for prime - start at 2
 # Loop until 100 prime numbers are detected.  Variable
 # 'number' is current candidate to be tested.  Variable
 # 'count' keeps a running tally of prime numbers so far.
-while count < 100:
+while count < PRIME_COUNT:
 
     # If prime, increment prime count and write number
     if isNumberPrime(number) == True:
