@@ -1,0 +1,8 @@
+123,Widget,3
+234,Frumkin,4
+345,Gadget,2
+456,Mechanism,4
+567,Whatchamacallit,5
+678,Gizmo,1
+789,DooDad,4
+890,Thingamajig,5
